@@ -176,6 +176,8 @@ The deployed service is accessible at the following URL:
 
 [https://online-shopper-prediction-558797510368.us-central1.run.app/predict](https://online-shopper-prediction-558797510368.us-central1.run.app/predict)
 
+You can find screenshots in screenshots folder
+
 **Testing the Deployed Service:**
 
 1.  Run the script:
